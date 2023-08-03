@@ -1,4 +1,3 @@
-# virtualspace
 # Virtual Space 
 
 Virtual Space is an "Application Virtualization Engine" on Android, also known as an Android virtual machine, which creates a sandbox environment for the Android system. It can be used for viarous purposes, such as data privacy, security, script automation, plug-in development, and rebranded as a Google Play app.
