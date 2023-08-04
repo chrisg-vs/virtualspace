@@ -9,7 +9,7 @@ Telegram：[@virtualspace_gp](https://t.me/virtualspace_gp)
 # Google Play Store Listing
 For any customization to be listed on Google Play Store or self-use, please contact us. 
 
-please contact Telegram：[@Samuel](https://t.me/vs_jason) or Email: jason@dualchat.tech.
+please contact Telegram：[@Jason](https://t.me/vs_jason) or Email: jason@dualchat.tech.
 
 <br>
 
